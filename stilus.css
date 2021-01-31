@@ -1,0 +1,75 @@
+.kep
+{
+    width: 100px;
+}
+
+tr
+{
+    text-align: center;
+    color: rgb(36,40,142);
+}
+
+td:first-child
+{
+    background-color: rgb(185,186,253);
+    text-align:left;
+}
+
+td:last-child
+{
+    background-color: rgb(213,214,214);
+}
+
+th:first-child
+{
+    background-color: rgb(185,186,253);
+    text-align:left;
+}
+
+th:last-child
+{
+    background-color: rgb(184,184,184);
+}
+
+td
+{
+    border-radius: 5px;
+    background-color:rgb(214, 214, 254);
+    box-shadow:3px 3px rgb(10, 16, 152);
+    height: 60px;
+
+}
+
+th
+{
+    border-radius: 5px;
+    background-color:rgb(155,156,253);
+    box-shadow:3px 3px rgb(10, 16, 152);
+    height:60px;
+}
+
+table
+{
+    border:3px solid;
+    border-radius: 5px;
+    border-color:rgb(155, 155, 212);
+    border-collapse: separate;
+    border-spacing:5px;
+}
+
+#piros
+{
+    color:rgb(190, 28, 3);
+    font-weight: bold;
+}
+
+div
+{
+    margin: auto;
+    width: 750px;
+}
+
+body
+{
+    font-family:'Calibri';
+}
